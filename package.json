@@ -1,5 +1,27 @@
 {
   "devDependencies": {
     "parcel": "^2.12.0"
-  }
+  },
+  "name": "food_delivery_app",
+  "description": "This is food delivery application",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahak-Agg/food_delivery_app.git"
+  },
+  "author": "Mahak",
+  "license": "ISC",
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mahak-Agg/food_delivery_app/issues"
+  },
+  "homepage": "https://github.com/Mahak-Agg/food_delivery_app#readme"
 }
